@@ -1,0 +1,8 @@
+Henkilo{nimi='erkki'ikä=30}'
+Henkilo{nimi='pekka'ikä=22}'
+Henkilo{nimi='paula'ikä=41}'
+Henkilo{nimi='pirkko'ikä=25}'
+Henkilo{nimi='paavo'ikä=36}'
+Henkilo{nimi='sanna'ikä=20}'
+Henkilo{nimi='tanja'ikä=30}'
+Henkilo{nimi='eeva'ikä=32}'
